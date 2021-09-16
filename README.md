@@ -178,8 +178,4 @@ If you find this repo useful in your research, please consider citing it and our
 =======
 # simple-architecture-on-point-clouds
 Using Hilbert or Z_order with CNN to achieve downstream tasks
->>>>>>> c285476f5eaba6b1930839c55f1e4b64a6e4f4dd
-=======
-# simple-architecture-on-point-clouds
-Using Hilbert or Z_order with CNN to achieve downstream tasks
->>>>>>> c285476f5eaba6b1930839c55f1e4b64a6e4f4dd
+Now classfiction acc is up to 92% 
