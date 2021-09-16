@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Pytorch Implementation of PointNet and PointNet++ 
 
 This repo is implementation for [PointNet](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) and [PointNet++](http://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf) in pytorch.
@@ -174,6 +175,10 @@ If you find this repo useful in your research, please consider citing it and our
 * [Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions, ECCV'20](https://github.com/matheusgadelha/PointCloudLearningACD)
 * [PCT: Point Cloud Transformer](https://github.com/MenghaoGuo/PCT)
 * [Point Sampling Net: Fast Subsampling and Local Grouping for Deep Learning on Point Cloud](https://github.com/psn-anonymous/PointSamplingNet)
+=======
+# simple-architecture-on-point-clouds
+Using Hilbert or Z_order with CNN to achieve downstream tasks
+>>>>>>> c285476f5eaba6b1930839c55f1e4b64a6e4f4dd
 =======
 # simple-architecture-on-point-clouds
 Using Hilbert or Z_order with CNN to achieve downstream tasks
